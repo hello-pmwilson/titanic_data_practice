@@ -1,38 +1,41 @@
-# Titanic - Remember How to Data Science Project
+# Titanic - Remember How to Data Science
 
-A well-documented data science project is critical for understanding, reproducibility, and collaboration. Use the outline below as a structure for your own project documentation.
+Note: This project was built for educational purposes by adapting and experimenting with publicly available tutorials and notebooks. All code is either original or adapted with attribution where required.
 
----
+## Project Overview
 
-## 📌 1. Project Overview
-
-- **Title**: *Your Project Name Here*
-- **Summary**: Briefly describe what this project is about.
-- **Problem Statement**: What specific question or problem are you solving?
+- **Title**: Titanic - Remember How to Data Science - Passenger Survivorship
+- **Summary**: This project will analyze the Titanic dataset to predict passenger survival using basic/introductory datascience techniques and along the way build up some personal documentation and habits. It includes:
+  - Good documentation practice
+  - Exploratory Data Analysis (EDA)
+  - Data cleaning and preprocessing
+  - Feature engineering
+  - Model training 
+    - Logisitc Regression 
+    - Random Forest
+  - Basic evaluation
+    - Accuracy
+- **Problem Statement**: The goal of the project is to predict which passengers survived the Titanic disaster. The provided dataset contains various features, demographic and social details. By analyzing the features, I aim to provide insight into key factors influecing survival chances. 
 - **Goals/Objectives**:
-  - Goal 1
-  - Goal 2
-  - Goal 3
+  - **Predict** the survival of passengers aboard the Titanic using machine learning
+  - **Identify** key factors influecning survival
+  - **Document** the process to build good habits
 
----
+## Table of Contents
 
-## 📑 2. Table of Contents
+- [Project Overview](#project-overview)
+- [Data Description](#data-description)
+- [Project Structure](#project-structure)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Modeling](#modeling)
+- [Interpretation](#interpretation)
+- [Deployment](#deployment-if-applicable)
+- [Reproducibility](#reproducibility)
+- [Conclusion & Next Steps](#conclusion--next-steps)
+- [Appendices](#appendices-optional)
+- [References](#references)
 
-- [Project Overview](#1-project-overview)
-- [Data Description](#3-data-description)
-- [Project Structure](#4-project-structure)
-- [Exploratory Data Analysis](#5-exploratory-data-analysis)
-- [Modeling](#6-modeling)
-- [Interpretation](#7-interpretation)
-- [Deployment](#8-deployment-if-applicable)
-- [Reproducibility](#9-reproducibility)
-- [Conclusion & Next Steps](#10-conclusion--next-steps)
-- [Appendices](#11-appendices-optional)
-- [References](#12-references)
-
----
-
-## 📊 3. Data Description
+## Data Description
 
 - **Data Sources**: Where is the data from?
 - **Data Files**:
@@ -45,7 +48,5 @@ A well-documented data science project is critical for understanding, reproducib
   - Feature engineering
   - Data transformation
 
----
-
-## 📁 4. Project Structure
+## Project Structure
 
